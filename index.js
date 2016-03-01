@@ -1,6 +1,6 @@
 /**
- * nunjucks-date-filter
- * https://github.com/piwi/nunjucks-date-filter
+ * nunjucks-date-filter-local
+ * Fork from https://github.com/piwi/nunjucks-date-filter
  *
  * Copyright (c) 2015 Pierre Cassat
  * Licensed under the Apache 2.0 license.
@@ -26,7 +26,7 @@ function dateFilter(date, format)
     var obj;
     Array.prototype.push.apply(args, arguments);
     try {
-        obj = moment.utc(date);
+        obj = moment(date);
     } catch (err) {
         errs.push(err);
     }
