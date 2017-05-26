@@ -4,6 +4,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [Unreleased]
+
+## [0.2.2] - 2017-05-25
+### Changed
+- Removed extraneous imports added when scaffolding out the project.
+- Upgraded Nunjucks and Moment.js to more recent, secure versions.
+
+
 ## 0.2.1 - 2017-05-25
 ### Added
 - Initial fork of repo from [breeswish/nunjucks-date-filter-local](https://github.com/breeswish/nunjucks-date-filter-local) (which was listed at v0.1.2 at the time of forking).
@@ -16,4 +24,5 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Main code ported to ES6.
 
 
-[Unreleased]: https://github.com/olivierlacan/keep-a-changelog/compare/v0.2.1...HEAD
+[Unreleased]: https://github.com/olivierlacan/keep-a-changelog/compare/v0.2.2...HEAD
+[0.2.2]: https://github.com/olivierlacan/keep-a-changelog/compare/v0.2.1...v0.2.2
