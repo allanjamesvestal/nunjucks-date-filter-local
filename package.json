@@ -35,7 +35,7 @@
   },
   "homepage": "https://www.npmjs.com/package/nunjucks-timezone-aware-datefilter",
   "dependencies": {
-    "moment": "^2.9.0",
+    "moment": "^2.18.1",
     "moment-timezone": "^0.5.13",
     "nunjucks": "^1.2.0"
   },
