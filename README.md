@@ -1,4 +1,4 @@
-# nunjucks-timezone-aware-datefilter
+# nunjucks-timezone-aware-datefilter &middot; [![Dependency security](https://david-dm.org/allanjamesvestal/nunjucks-timezone-aware-datefilter.svg)](https://david-dm.org/allanjamesvestal/nunjucks-timezone-aware-datefilter)
 
 
 This package provides a `date` filter, with timezone awareness, for [Nunjucks](https://mozilla.github.io/nunjucks/).
