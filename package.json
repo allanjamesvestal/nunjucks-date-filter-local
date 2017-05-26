@@ -37,7 +37,7 @@
   "dependencies": {
     "moment": "^2.18.1",
     "moment-timezone": "^0.5.13",
-    "nunjucks": "^1.2.0"
+    "nunjucks": "^3.0.1"
   },
   "devDependencies": {
     "babel": "^6.23.0",
