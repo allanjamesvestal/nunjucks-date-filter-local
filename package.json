@@ -1,6 +1,6 @@
 {
   "name": "nunjucks-timezone-aware-datefilter",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "A timezone-aware 'date' filter for Nunjucks (using Moment.js and Moment Timezone).",
   "main": "index.js",
   "scripts": {
